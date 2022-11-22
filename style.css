@@ -83,7 +83,7 @@ main {
   outline: none;
   font-family: var(--fontGeneral--);
   font-size: 1.6rem;
-  font-weight: 400;
+  font-weight: bold;
   color: #1a202c;
   border: 1px solid black;
   border-radius: 8px;
